@@ -105,7 +105,8 @@ h1 {
 
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-04-30 115635.png>)
+![Screenshot 2025-04-30 115635](https://github.com/user-attachments/assets/1df4d4da-99c5-4ac5-a528-7b4632008dd7)
+
 
 
 ## RESULT:
